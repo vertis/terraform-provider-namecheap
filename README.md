@@ -1,3 +1,5 @@
+## NB: This is a fork of Namecheap-Ecosystem/terraform-provider-namecheap, which is currently broken (as of Wed 16 June 2021). There is an open pull request. When this is merged, I do NOT intend to update this further. All contribution should be done to original repo.
+
 <a href="https://terraform.io">
     <img src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
 </a>
